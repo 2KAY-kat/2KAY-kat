@@ -8,16 +8,16 @@ function loadNote() {
     const note = localStorage.getItem('note');
     if (note) {
         document.getElementById('note').value = note;
-        alert('Note loaded!');
+       // alert('Note loaded!');
     } else {
-        alert('No saved note found.');
+        //alert('No saved note found.');
     }
 }
 
 function clearNote() {
     document.getElementById('note').value = '';
     localStorage.removeItem('note');
-    alert('Note cleared!');
+    //alert('Note cleared!');
 }
 
 // Function to load mock data for testing
@@ -26,7 +26,7 @@ function loadMockData() {
         note: "This is a sample note for testing purposes."
     };
     document.getElementById('note').value = mockData.note;
-    alert('Mock data loaded!');
+    //alert('Mock data loaded!');
 }
 
 // Test cases
