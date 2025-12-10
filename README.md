@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kat.kay2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kelvin-katoya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Kelvinkatoya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kelvinkaykatoya@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kat.kay2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-katoya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Kelvinkatoya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kelvinkaykatoya@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=2kay-kat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
